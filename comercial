@@ -26,11 +26,6 @@
       "duration": 10,
       "tabReloadIntervalSeconds": 3600
     },
-{
-      "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/b740a881-38ee-4c83-b8e2-6a95f23dc4d7/ReportSectiond6ebbb234e958b871f8c?chromeless=1",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 3600
-    },
     {
       "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/21423daa-c2f0-47cd-8555-cb96aef3a5ed/ReportSection?chromeless=1",
       "duration": 10,
@@ -38,6 +33,32 @@
     },
        {
       "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/21423daa-c2f0-47cd-8555-cb96aef3a5ed/ReportSectionb8afca6da42de50f83c6?chromeless=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 3600
+    },
+          {
+      "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/a51587ae-45eb-45cf-ab2b-8491b071147a/ReportSection?chromeless=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 3600
+    },
+             {
+      "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/a51587ae-45eb-45cf-ab2b-8491b071147a/ReportSection0ffa7248f17ecf7d9cc8?chromeless=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 3600
+    },
+              {
+      "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/3731782c-ea6b-4e4a-aad5-bcaae0b3a508/ReportSection?chromeless=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 3600
+    },
+      },
+              {
+      "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/3731782c-ea6b-4e4a-aad5-bcaae0b3a508/ReportSection3531ac86e71084d149fd?chromeless=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 3600
+    },
+         {
+      "url": "https://app.powerbi.com/groups/2f8dcfea-7a46-46ba-aa32-b421567d2722/reports/6e39fe69-59c0-459b-9af7-8a6b9397830b/ReportSection?chromeless=1",
       "duration": 10,
       "tabReloadIntervalSeconds": 3600
     }
