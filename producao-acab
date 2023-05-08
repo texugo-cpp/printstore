@@ -1,1 +1,20 @@
-
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/a0328c57-18ac-4418-86de-501d0c447fc1/reports/ce60c64a-e103-4242-a4e4-e0d4eaf8872d/ReportSection2b624bdcbe40eb00661c?chromeless=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 3600
+    },
+    {
+      "url": "https://app.powerbi.com/groups/a0328c57-18ac-4418-86de-501d0c447fc1/reports/ce60c64a-e103-4242-a4e4-e0d4eaf8872d/ReportSectionbc9a823e3a0e85e80b81?chromeless=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 3600
+    }
+    
+  ] 
+}
